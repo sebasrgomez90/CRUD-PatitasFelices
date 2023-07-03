@@ -334,6 +334,7 @@ td,th{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    margin-top: 60px;
     
     
   }
@@ -431,13 +432,14 @@ td,th{
 footer {
   width: 100%;
   position: absolute;
-  padding: 2rem 8%;
+  padding: 1rem 15%;
   background-color: var(--secondary-color);
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   box-shadow: 0 -1px 5px 0 rgba(0, 0, 0, 0.3);
+  margin-top: 80px;
 }
 
 .footer-logo {
